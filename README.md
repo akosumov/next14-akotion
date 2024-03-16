@@ -28,6 +28,11 @@ Key Features:
 
 **Node version 18.x.x**
 
+```shell
+git clone https://github.com/akosumov/next14-akotion.git
+```
+
+
 ### Install packages
 
 ```shell
