@@ -1,5 +1,5 @@
 # Fullstack Notion Clone by name Akotion : Next.js 13, React, Convex, Tailwind | Full Course 2023
-# Link on project :https://next14-akotion.vercel.app
+# Link on project : https://next14-akotion.vercel.app
 ![Akotion](https://i.ibb.co/vwPG9jW/photo-2024-03-17-01-54-50.jpg)
 
 
